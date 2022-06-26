@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\geovanne\Documents\C++\NoAnim\MyForm.h(135,1): warning C4312: 'conversão de tipo': conversão de 'int' para 'LPVOID' de tamanho maior
+C:\Users\geovanne\Documents\C++\NoAnim\MyForm.h(146,1): warning C4312: 'conversão de tipo': conversão de 'int' para 'LPVOID' de tamanho maior
+C:\Users\geovanne\Documents\C++\NoAnim\MyForm.h(152,1): warning C4312: 'conversão de tipo': conversão de 'int' para 'LPVOID' de tamanho maior
+C:\Users\geovanne\Documents\C++\NoAnim\MyForm.cpp(6,33): warning C4829: Parâmetros possivelmente incorretos para função main. Considere o uso de 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  NoAnim.vcxproj -> C:\Users\geovanne\Documents\C++\NoAnim\x64\Debug\NoAnim.exe

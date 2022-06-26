@@ -1,0 +1,5 @@
+C:\Users\geovanne\Documents\C++\NoAnim\x64\Debug\NoAnim.vcxproj.AssemblyReference.cache
+C:\Users\geovanne\Documents\C++\NoAnim\x64\Debug\NoAnim.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\geovanne\Documents\C++\NoAnim\x64\Debug\NoAnim.exe
+C:\Users\geovanne\Documents\C++\NoAnim\x64\Debug\NoAnim.MyForm.resources
+C:\Users\geovanne\Documents\C++\NoAnim\x64\Debug\NoAnim.vcxproj.GenerateResource.cache
